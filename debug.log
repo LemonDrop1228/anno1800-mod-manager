@@ -1,0 +1,147 @@
+[0515/200618.296:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0515/200620.380:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0515/200620.719:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/200621.460:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0515/200621.514:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0515/200621.516:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0515/200753.599:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0515/200754.003:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/200754.637:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0515/200754.739:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0515/200755.591:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0515/200755.593:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0515/200855.677:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0515/200857.733:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0515/200858.005:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/200858.717:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0515/200858.719:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0515/200858.778:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0515/201004.389:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0515/201006.692:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0515/201006.734:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/201007.472:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0515/201007.854:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0515/201007.855:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0515/201301.698:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0515/201302.094:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/201302.507:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0515/201302.909:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0515/201303.456:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0515/201303.459:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0515/201846.463:WARNING:resource_bundle.cc(426)] locale_file_path.empty() for locale 
+[0515/201846.463:ERROR:main_delegate.cc(906)] Could not load locale pak for en-US
+[0515/201846.486:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.486:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.486:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.486:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.486:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.486:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.486:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.486:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.486:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.486:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.487:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.488:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.488:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201846.554:WARNING:resource_bundle.cc(426)] locale_file_path.empty() for locale 
+[0515/201846.554:ERROR:main_delegate.cc(906)] Could not load locale pak for en-US
+[0515/201846.686:WARNING:resource_bundle.cc(426)] locale_file_path.empty() for locale 
+[0515/201846.686:ERROR:main_delegate.cc(906)] Could not load locale pak for en-US
+[0515/201847.663:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201847.663:WARNING:resource_bundle.cc(1059)] locale resources are not loaded
+[0515/201847.713:WARNING:resource_bundle.cc(426)] locale_file_path.empty() for locale 
+[0515/201847.713:ERROR:main_delegate.cc(906)] Could not load locale pak for en-US
+[0515/201849.365:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0515/201849.680:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/201850.052:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0515/201850.484:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0515/201851.183:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0515/201851.185:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0515/203214.131:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0515/203216.198:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0515/203216.234:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/203217.001:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0515/203217.189:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0515/203217.190:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0515/204226.277:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0515/204226.663:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/204226.947:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0515/204227.426:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0515/204227.901:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0515/204227.905:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0515/204237.761:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/205534.914:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0515/205535.267:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0515/205535.290:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/205536.031:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0515/205536.331:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0515/205536.334:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0515/205546.520:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/205558.834:INFO:CONSOLE(784)] "AppMeasurement loading", source:  (784)
+[0515/205558.834:INFO:CONSOLE(855)] "AppMeasurement loaded", source:  (855)
+[0515/205805.173:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0515/205805.652:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/205805.837:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0515/205806.415:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0515/205806.625:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0515/205806.627:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0515/205830.326:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/205830.476:INFO:CONSOLE(784)] "AppMeasurement loading", source:  (784)
+[0515/205830.476:INFO:CONSOLE(855)] "AppMeasurement loaded", source:  (855)
+[0515/210428.455:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0515/210428.847:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/210428.978:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0515/210429.587:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0515/210429.922:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0515/210429.925:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0515/210439.845:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0515/210440.455:INFO:CONSOLE(784)] "AppMeasurement loading", source:  (784)
+[0515/210440.455:INFO:CONSOLE(855)] "AppMeasurement loaded", source:  (855)
+[0516/143620.700:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0516/143624.568:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0516/143624.740:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0516/143626.903:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0516/143626.908:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0516/143628.862:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0516/143815.275:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0516/143822.030:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0516/143822.291:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0516/143824.097:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0516/143824.099:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
+[0516/143825.060:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0530/193434.364:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.anno-union.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+[0530/193434.745:INFO:CONSOLE(8)] "connectSDK DOMContentLoaded [object Event]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (8)
+[0530/193434.759:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.anno-union.com/en/' was loaded over HTTPS, but requested an insecure image 'http://support.ubi.com/'. This content should also be served over HTTPS.", source: https://www.anno-union.com/en/ (0)
+[0530/193435.972:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://support.ubisoft.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.anno-union.com/en/ (0)
+[0530/193436.128:INFO:CONSOLE(20)] "connectSDK sdk loaded", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (20)
+[0530/193436.194:INFO:CONSOLE(23)] "connectSDK subscribe [object Object]", source: https://www.anno-union.com/wp-content/themes/emptyspace/js/uplayinit.js?ver=3.0.1.2 (23)
